@@ -1,4 +1,4 @@
-package com.user.app;
+package com.mzaini30.tantanganngaji;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        StartAppSDK.init(this, "204848974", false);
+        StartAppSDK.init(this, "204716586", false);
         StartAppAd.disableSplash();
 
         RelativeLayout mainLayout = (RelativeLayout)findViewById(R.id.mainLayout);
