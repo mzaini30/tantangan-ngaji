@@ -28,8 +28,8 @@ export default defineConfig({
       }
     }),
     Layouts(),
-    Inspector({
-      enabled: false
-    })
+    // Inspector({
+    //   enabled: false
+    // })
   ]
 })
