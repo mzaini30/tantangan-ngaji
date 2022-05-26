@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16403309"
+     inkscape:cx="-570.00694"
+     inkscape:cy="746.80054"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#14b8a6;fill-opacity:1;stroke-width:0.264583"
+       id="rect815"
+       width="339.42264"
+       height="339.42264"
+       x="-236.96388"
+       y="-14.452381"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954"
+       inkscape:export-filename="/home/zen/aplikasi-android/target-penghasilan-apk/tambahan/icon.png" />
+    <g
+       fill="currentColor"
+       id="g851"
+       transform="matrix(8.1908575,0,0,8.1908575,-132.77942,89.732078)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="/home/zen/aplikasi-android/target-penghasilan-apk/tambahan/icon.png"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954">
+      <path
+         d="m 5.5,9.511 c 0.076,0.954 0.83,1.697 2.182,1.785 V 12 h 0.6 V 11.291 C 9.682,11.193 10.5,10.445 10.5,9.359 10.5,8.372 9.874,7.863 8.755,7.599 L 8.282,7.487 V 5.57 c 0.6,0.068 0.982,0.396 1.074,0.85 h 1.052 C 10.332,5.501 9.544,4.782 8.282,4.704 V 4 h -0.6 v 0.719 c -1.195,0.117 -2.01,0.836 -2.01,1.853 0,0.9 0.606,1.472 1.613,1.707 l 0.397,0.098 v 2.034 C 7.067,10.318 6.66,9.981 6.568,9.511 Z M 7.677,7.345 C 7.087,7.208 6.767,6.929 6.767,6.509 c 0,-0.47 0.345,-0.822 0.915,-0.925 v 1.76 H 7.677 Z m 0.692,1.193 c 0.717,0.166 1.048,0.435 1.048,0.91 0,0.542 -0.412,0.914 -1.135,0.982 V 8.518 Z"
+         id="path845"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M 8,15 A 7,7 0 1 1 8,1 7,7 0 0 1 8,15 Z m 0,1 A 8,8 0 1 0 8,0 8,8 0 0 0 8,16 Z"
+         id="path847"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="m 8,13.5 a 5.5,5.5 0 1 1 0,-11 5.5,5.5 0 0 1 0,11 z M 8,14 A 6,6 0 1 0 8,2 6,6 0 0 0 8,14 Z"
+         id="path849"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
