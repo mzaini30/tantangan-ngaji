@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/assets/dist/ && node afterBuild.mjs",
+    "build:normal": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
